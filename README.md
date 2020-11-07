@@ -1,4 +1,4 @@
-![Marcin Perka Banner](https://github.com/MarcinPerka/MarcinPerka/raw/master/banner.jpg)
+![Marcin Perka Banner](https://github.com/MarcinPerka/MarcinPerka/raw/main/banner.jpg)
 ### Hi there 👋
 
 <!--
