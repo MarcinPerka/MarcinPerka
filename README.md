@@ -15,6 +15,7 @@
 <img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Confluence" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" />
 <br/>
+<br/>
 <h2>Contact:</h2>
 <a href="https://www.linkedin.com/in/marcin-perka/">
 <img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
