@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋</h1>
 
-<h2>Software Developer and new technologies passionate, working for Pixel Technology.</h2>
+<h2>Software Developer and new technologies passionate, working for GFT Group.</h2>
 
 <h2>Tools & Technologies:</h2>
 <img align="left" alt="Java" title="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
