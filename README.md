@@ -10,11 +10,13 @@
 <img align="left" alt="Spring" title="Spring" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" title="Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Apache Kafka" title="Apache Kafka" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
 <img align="left" alt="IntelliJ" title="IntelliJ" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Ubuntu" title="Ubuntu" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />
 <img align="left" alt="Linux" title="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Confluence" title="Confluence" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" />
+<img align="left" alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <br/>
 <br/>
 <h2>Contact:</h2>
